@@ -1,2 +1,2 @@
 # DIO-Trilha-JavaBasico
-Repositorio de estudos de java basico pela dio
+Repositorio de estudos de java basico da dio
